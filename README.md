@@ -103,10 +103,3 @@ A análise do dataset `covid_related_disease_data.csv` revelou os seguintes insi
 
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias, detetar problemas ou quiser adicionar novas análises, sinta-se à vontade para abrir "issues" ou "pull requests".
 
-## 📧 Contato
-
-Se você tiver alguma dúvida sobre o projeto, quiser discutir a análise ou tiver sugestões, entre em contato:
-
-- Diego Juliano Lima Figueredo
-- LinkedIn: [https://www.linkedin.com/in/seuusuario](https://www.linkedin.com/in/seuusuario)  
-- GitHub: [https://github.com/seuusuario](https://github.com/seuusuario)
